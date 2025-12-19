@@ -1,0 +1,54 @@
+{
+  "user_1754982863": {
+    "user_id": "user_1754982863",
+    "created_at": "2025-08-12T12:44:25.870367",
+    "last_updated": "2025-08-12T12:44:25.870377",
+    "hydration_goal_ml": 2000,
+    "reminder_frequency_minutes": 60,
+    "preferences": {},
+    "stats": {
+      "total_analyses": 1,
+      "total_intake_logged": 0,
+      "average_hydration_score": 75.0
+    }
+  },
+  "user_1754983165": {
+    "user_id": "user_1754983165",
+    "created_at": "2025-08-12T12:49:27.768907",
+    "last_updated": "2025-08-12T12:49:27.768921",
+    "hydration_goal_ml": 2000,
+    "reminder_frequency_minutes": 60,
+    "preferences": {},
+    "stats": {
+      "total_analyses": 0,
+      "total_intake_logged": 0,
+      "average_hydration_score": 0.0
+    }
+  },
+  "user_1754986605": {
+    "user_id": "user_1754986605",
+    "created_at": "2025-08-12T13:46:47.354037",
+    "last_updated": "2025-08-12T13:46:47.354050",
+    "hydration_goal_ml": 2000,
+    "reminder_frequency_minutes": 60,
+    "preferences": {},
+    "stats": {
+      "total_analyses": 0,
+      "total_intake_logged": 0,
+      "average_hydration_score": 0.0
+    }
+  },
+  "user_1754986615": {
+    "user_id": "user_1754986615",
+    "created_at": "2025-08-12T13:46:57.140781",
+    "last_updated": "2025-08-12T13:46:57.140798",
+    "hydration_goal_ml": 2000,
+    "reminder_frequency_minutes": 60,
+    "preferences": {},
+    "stats": {
+      "total_analyses": 0,
+      "total_intake_logged": 0,
+      "average_hydration_score": 0.0
+    }
+  }
+}

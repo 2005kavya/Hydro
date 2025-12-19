@@ -1,0 +1,30 @@
+{
+  "user_1754982863": [
+    {
+      "timestamp": "2025-08-12T12:45:11.166362",
+      "type": "analysis",
+      "hydration_score": 75.0,
+      "hydration_level": "Good",
+      "facial_analysis": {
+        "lip_dryness": 0.3,
+        "eye_redness": 0.2,
+        "skin_elasticity": 0.8,
+        "skin_tone": 0.7
+      },
+      "voice_analysis": {
+        "voice_roughness": 0.2,
+        "speech_clarity": 0.9,
+        "pitch_variation": 0.3,
+        "volume_stability": 0.8
+      },
+      "recommendations": [
+        "\ud83d\udc4d Your hydration is good, but could be better",
+        "\ud83d\udca7 Consider drinking 150-200ml of water"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "user_1754983165": [],
+  "user_1754986605": [],
+  "user_1754986615": []
+}
